@@ -9,6 +9,7 @@ public class MainTest {
 			Scanner scanner = new Scanner(System.in);
 			booking = scanner.next();
 			
+			
 			Booking book = BookingFactory.getBooking(booking);
 			
 			System.out.println(book.getACClass());
