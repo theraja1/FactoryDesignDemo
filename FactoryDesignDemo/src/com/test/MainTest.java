@@ -2,7 +2,7 @@ package com.test;
 
 import java.util.Scanner;
 
-public class MainTest {
+public class MainTest { 
 		public static void main(String[] args) {
 			String booking;
 			System.out.println("Enter the AC class type>>");
