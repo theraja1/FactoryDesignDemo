@@ -13,6 +13,7 @@ public class BookingFactory {
 		}
 		
 		throw new IllegalArgumentException("Invalid input from user..");
+		// throw new IllegalArgumentException("Invalid input from user..");
 		
 	}
 
